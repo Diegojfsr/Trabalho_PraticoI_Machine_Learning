@@ -11,3 +11,9 @@ Feature Engineering(Engenharia de Recursos)
 Feature transformations(Transformações de Recursos) Encodigin(dimencionamento) Escaling(codificação) Target Transformation(transformação de destino) Model Selection(Seleção do Modelo) Hiperparameter Optimization(otimização de Hiperparametro) Ensembling
 
 Feature Selections(Seleção de Recuros)
+
+DiegoJfsr_Trabalho_Pratico_Machine_Learning_Regressao | Codigo no COLAB:
+https://colab.research.google.com/drive/1mlGgEVUHZxEThrVqcKez8hTwYJu6PNzF
+
+DiegoJfsr_Trabalho_Pratico_Machine_Learning_Regressao | Passo a passo:
+https://www.notion.so/diegojfsr/Analise_Dados_Trabalho_Pratico_Machine_Learning-5dc8a387fc35483192a325b59736aa50
