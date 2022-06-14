@@ -17,3 +17,8 @@ https://colab.research.google.com/drive/1mlGgEVUHZxEThrVqcKez8hTwYJu6PNzF
 
 DiegoJfsr_Trabalho_Pratico_Machine_Learning_Regressao | Passo a passo:
 https://www.notion.so/diegojfsr/Analise_Dados_Trabalho_Pratico_Machine_Learning-5dc8a387fc35483192a325b59736aa50
+
+
+
+Teste1_Trabalho_Pratico_Machine_Learning_Regressao
+https://colab.research.google.com/drive/1zHI9klDIWhbkf1kPJy0yYw7UtOpD5RJW#scrollTo=3Lg7zclXTD0N
